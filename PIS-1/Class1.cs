@@ -8,5 +8,6 @@ namespace PIS_1
 {
     class Class1
     {
+        public void test() { }
     }
 }
